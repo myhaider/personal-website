@@ -216,7 +216,7 @@ font-family: 'Spinnaker', sans-serif;
 }
 
 .about-content hr {
-	width: 150px;
+width: 150px;
   margin: 50px auto;
   height: 1px;
   overflow: hidden;
@@ -227,7 +227,7 @@ font-family: 'Spinnaker', sans-serif;
 .github-chart {
   display: block;
   margin: 0 auto;
-  width: 50%;
+  width: 45%;
   padding-top: 1em;
 }
 
