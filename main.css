@@ -1,4 +1,6 @@
-
+body {
+	  text-rendering: optimizeLegibility;
+}
 
 a {
 	outline: none;
@@ -201,9 +203,10 @@ font-family: 'Spinnaker', sans-serif;
 	margin: 15px 0 25px;
 	text-align: left;
 	margin-left: 15em;
-	margin-right: 20em;
+	margin-right: 15em;
 	font-family: Didot;
 	font-size: 20px;
+	line-height: 1.5em;
 }
 
 .about-content h4 {
