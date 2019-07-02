@@ -227,6 +227,10 @@ a {
 	background: #e5e5e5;
 }
 
+.about-content a {
+	color: #60b0f4;
+}
+
 .github-chart {
 	display: block;
 	margin: 0 auto;
