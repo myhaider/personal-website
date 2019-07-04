@@ -238,4 +238,11 @@ a {
 	padding-top: 1em;
 }
 
+.contact-heading {
+	font-family: 'Spinnaker', sans-serif;
+	font-size: 50px;
+	text-align: center;
+	line-height: 1em;
+}
+
 
