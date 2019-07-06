@@ -247,5 +247,13 @@ a {
 	line-height: 1em;
 }
 
+.contact-icons img {
+	padding: 1em;
+	transition: transform 150ms ease-out;
+}
+
+.contact-icons img:hover {
+	transform: scale(1.1);
+}
 
 
