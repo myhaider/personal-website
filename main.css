@@ -232,6 +232,10 @@ a {
 	color: #60b0f4;
 }
 
+.interests-text p{
+	display: inline;
+}
+
 .github-chart {
 	display: block;
 	margin: 0 auto;
@@ -255,5 +259,4 @@ a {
 .contact-icons img:hover {
 	transform: scale(1.1);
 }
-
 
