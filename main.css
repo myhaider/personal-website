@@ -136,6 +136,7 @@ a {
 	padding: 25px 0;
 	text-align: center;
 	/* padding-bottom:25px; */
+	padding-right: 5em;
 }
 
 .footer-links {
@@ -236,6 +237,7 @@ a {
 	margin: 0 auto;
 	width: 45%;
 	padding-top: 1em;
+	padding-right: 1em;
 }
 
 .contact-heading {
@@ -244,5 +246,6 @@ a {
 	text-align: center;
 	line-height: 1em;
 }
+
 
 
