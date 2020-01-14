@@ -125,6 +125,7 @@ a {
 	width: 300px;
 	opacity: 0.3;
 	transition: opacity 150ms ease;
+	z-index: -1;
 }
 
 .rocket-silver:hover {
@@ -256,3 +257,38 @@ a {
 	transform: scale(1.1);
 }
 
+
+.projects-title {
+  font-family: 'Spinnaker', sans-serif;
+  font-size: 50px;
+  color: #222;
+  margin: 0;
+  line-height: 1.5;
+  padding-left: 1em;
+}
+
+
+.projects-content p {
+  /*margin: 15px 0 25px;*/
+  font-family: Didot;
+  font-size: 20px;
+  padding-right: 4em;
+  padding-left: 2.6em;
+
+}
+
+.projects-content h4 {
+  /*margin: 15px 0 25px;*/
+  color: #60b0f4;
+  line-height: 1;
+  font-family: Spinnaker, sans-serif;
+  font-size: 25px;
+  padding-right: 4em;
+  padding-left: 1.9em;
+
+}
+
+.projects-content a {
+  text-decoration: none;
+  color: #60b0f4
+}
